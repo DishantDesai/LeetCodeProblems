@@ -11,7 +11,6 @@
  * @return {boolean}
  */
 
-//Solution 2
 var isValidBST = function (root) {
   let order = [];
   function traverse(node) {
